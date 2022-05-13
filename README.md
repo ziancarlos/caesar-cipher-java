@@ -25,7 +25,7 @@
 <div align="center">
 
 
-  <h3 align="center">Burger Queen Restaurant</h3>
+  <h3 align="center">Caesar Cipher</h3>
 
 
 </div>
@@ -40,7 +40,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-         <li><a href="#ERD">ERD</a></li>
       </ul>
     </li>
     <li>
@@ -71,7 +70,6 @@
 
 
 * [Java](https://docs.oracle.com/en/java/)
-* [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 * [JAVAFX](https://openjfx.io/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,32 +80,19 @@
 
 ### Prerequisites
 
-* JDBC
-  ```Install JDBC connector
-  https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/
-  ```
 * Javafx
   ```Install Javafx connector
   https://openjfx.io/
   ```
-* MYSQL
-  ```Install MYSQL
-  https://dev.mysql.com/downloads/mysql/
-  ```  
+
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/orangkerenz/BURGER-QUEEN_java
+   git clone https://github.com/ziancarlos/caesar-cipher-java
    ```
-2. Import MYSQL File
-   ```sh
-    burger_queen_2022-03-29_154926.sql
-   ```
-3. Install Javafx Connector On The Project
-4. Install JDBC Connector On The Project
-4. Set Up MYSQL Database Name, Username And Password in src/config.properties
+2. Install Javafx Connector On The Project
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -119,7 +104,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/orangkerenz/BURGER-QUEEN_java](https://github.com/orangkerenz/BURGER-QUEEN_java)
+Project Link: [https://github.com/ziancarlos/caesar-cipher-java](https://github.com/ziancarlos/caesar-cipher-java)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
