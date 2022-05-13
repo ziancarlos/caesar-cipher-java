@@ -59,18 +59,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](Example.PNG)
+![Screenshot](EXAMPLE.PNG)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- ABOUT THE PROJECT -->
-## ERD
-
-![Screenshot](ERD.PNG)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
