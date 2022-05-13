@@ -17,6 +17,8 @@ public class App extends Application {
         Parent root = loader.load();
         // create scene
         Scene scene = new Scene(root);
+        // set title
+        primaryStage.setTitle("Caesar Cipher");
         // set scene to stage
         primaryStage.setScene(scene);
         // show stage
