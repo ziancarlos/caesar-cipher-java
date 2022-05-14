@@ -45,7 +45,9 @@ public class Controller {
 
         numCb.getSelectionModel().selectFirst();
 
-        System.out.println();
+        resultTf.setDisable(true);
+
+        button.setText("Encrypt");
     }
 
     @FXML
