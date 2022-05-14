@@ -70,7 +70,7 @@
 
 
 * [Java](https://docs.oracle.com/en/java/)
-* [JAVAFX](https://openjfx.io/)
+* [JavaFX](https://openjfx.io/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
