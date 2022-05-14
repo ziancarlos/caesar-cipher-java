@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](EXAMPLE.PNG)
+![Screenshot](caesar.PNG)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
